@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "USS Enterprise",
+    "registry": "NCC-1701",
+    "class": "Constitución",
+    "faction": "Federación",
+    "description": "Nave insignia de exploración; símbolo de curiosidad y diplomacia.",
+    "status": "Catalogada",
+    "year": 2158
+  },
+  {
+    "id": 2,
+    "name": "USS Enterprise-D",
+    "registry": "NCC-1701-D",
+    "class": "Galaxy",
+    "faction": "Federación",
+    "description": "Una ciudad interestelar diseñada para explorar y sostener vida.",
+    "status": "Catalogada",
+    "year": 2165
+  },
+  {
+    "id": 3,
+    "name": "USS Voyager",
+    "registry": "NCC-74656",
+    "class": "Intrepid",
+    "faction": "Federación",
+    "description": "Exploración profunda y regreso a casa desde el Cuadrante Delta.",
+    "status": "Catalogada",
+    "year": 2172
+  },
+  {
+    "id": 4,
+    "name": "USS Defiant",
+    "registry": "NX-74205",
+    "class": "Defiant",
+    "faction": "Federación",
+    "description": "Nave compacta, táctica y preparada para misiones de alto riesgo.",
+    "status": "Catalogada",
+    "year": 2179
+  },
+  {
+    "id": 5,
+    "name": "USS Discovery",
+    "registry": "NCC-1031",
+    "class": "Crossfield",
+    "faction": "Federación",
+    "description": "Investigación científica y exploración de nuevas fronteras.",
+    "status": "Catalogada",
+    "year": 2186
+  },
+  {
+    "id": 6,
+    "name": "USS Cerritos",
+    "registry": "NCC-75567",
+    "class": "California",
+    "faction": "Federación",
+    "description": "Apoyo, mantenimiento y misiones cotidianas de la Flota Estelar.",
+    "status": "Catalogada",
+    "year": 2193
+  },
+  {
+    "id": 7,
+    "name": "USS Titan",
+    "registry": "NCC-80102",
+    "class": "Luna",
+    "faction": "Federación",
+    "description": "Exploración y defensa en los límites del espacio conocido.",
+    "status": "Catalogada",
+    "year": 2200
+  },
+  {
+    "id": 8,
+    "name": "USS Stargazer",
+    "registry": "NCC-2893",
+    "class": "Constellation",
+    "faction": "Federación",
+    "description": "Nave de exploración de largo alcance.",
+    "status": "Catalogada",
+    "year": 2207
+  },
+  {
+    "id": 9,
+    "name": "USS Excelsior",
+    "registry": "NCC-2000",
+    "class": "Excelsior",
+    "faction": "Federación",
+    "description": "Diseño avanzado y presencia histórica en la Flota.",
+    "status": "Catalogada",
+    "year": 2214
+  },
+  {
+    "id": 10,
+    "name": "USS Reliant",
+    "registry": "NCC-1864",
+    "class": "Miranda",
+    "faction": "Federación",
+    "description": "Nave versátil de patrulla y exploración.",
+    "status": "Catalogada",
+    "year": 2221
+  },
+  {
+    "id": 11,
+    "name": "USS Equinox",
+    "registry": "NCC-72381",
+    "class": "Nova",
+    "faction": "Federación",
+    "description": "Nave científica perdida en el Cuadrante Delta.",
+    "status": "En revisión",
+    "year": 2228
+  },
+  {
+    "id": 12,
+    "name": "USS Prometheus",
+    "registry": "NX-59650",
+    "class": "Prometheus",
+    "faction": "Federación",
+    "description": "Prototipo experimental de combate y maniobrabilidad.",
+    "status": "Catalogada",
+    "year": 2235
+  },
+  {
+    "id": 13,
+    "name": "IKS Negh'Var",
+    "registry": "Desconocido",
+    "class": "Negh'Var",
+    "faction": "Imperio Klingon",
+    "description": "Nave de guerra insignia del Imperio Klingon.",
+    "status": "Catalogada",
+    "year": 2242
+  },
+  {
+    "id": 14,
+    "name": "IKS Rotarran",
+    "registry": "Desconocido",
+    "class": "Klingon Bird-of-Prey",
+    "faction": "Imperio Klingon",
+    "description": "Ave de presa bajo el mando de Martok.",
+    "status": "Catalogada",
+    "year": 2249
+  },
+  {
+    "id": 15,
+    "name": "Ave de presa",
+    "registry": "Variable",
+    "class": "Bird-of-Prey",
+    "faction": "Imperio Klingon",
+    "description": "Clase de nave de ataque con camuflaje.",
+    "status": "Catalogada",
+    "year": 2256
+  },
+  {
+    "id": 16,
+    "name": "Nave de guerra romulana",
+    "registry": "Variable",
+    "class": "D'deridex",
+    "faction": "Imperio Romulano",
+    "description": "Crucero de gran tamaño y tecnología de camuflaje.",
+    "status": "Catalogada",
+    "year": 2263
+  },
+  {
+    "id": 17,
+    "name": "Warbird Valdore",
+    "registry": "NCC?",
+    "class": "Valdore",
+    "faction": "Imperio Romulano",
+    "description": "Diseño romulano avanzado visto en el siglo XXIV.",
+    "status": "En revisión",
+    "year": 2270
+  },
+  {
+    "id": 18,
+    "name": "Borg Cube",
+    "registry": "Variable",
+    "class": "Cubo Borg",
+    "faction": "Colectivo Borg",
+    "description": "Estructura modular dedicada a la asimilación.",
+    "status": "Catalogada",
+    "year": 2277
+  },
+  {
+    "id": 19,
+    "name": "Borg Sphere",
+    "registry": "Variable",
+    "class": "Esfera Borg",
+    "faction": "Colectivo Borg",
+    "description": "Nave compacta de exploración y asimilación.",
+    "status": "Catalogada",
+    "year": 2284
+  },
+  {
+    "id": 20,
+    "name": "Voth City Ship",
+    "registry": "Variable",
+    "class": "Nave-ciudad",
+    "faction": "Voth",
+    "description": "Enorme plataforma móvil de una civilización avanzada.",
+    "status": "En revisión",
+    "year": 2291
+  },
+  {
+    "id": 21,
+    "name": "Jem'Hadar Battlecruiser",
+    "registry": "Variable",
+    "class": "Crucero Jem'Hadar",
+    "faction": "Dominio",
+    "description": "Nave de combate rápida y de gran potencia.",
+    "status": "Catalogada",
+    "year": 2298
+  },
+  {
+    "id": 22,
+    "name": "Bajoran Solar Sailor",
+    "registry": "Variable",
+    "class": "Nave solar",
+    "faction": "Bajor",
+    "description": "Nave impulsada por velas solares; tecnología tradicional.",
+    "status": "Catalogada",
+    "year": 2155
+  },
+  {
+    "id": 23,
+    "name": "Ferengi Marauder",
+    "registry": "Variable",
+    "class": "Marauder",
+    "faction": "Alianza Ferengi",
+    "description": "Nave comercial armada para proteger intereses mercantiles.",
+    "status": "Catalogada",
+    "year": 2162
+  },
+  {
+    "id": 24,
+    "name": "Tholian Web-Spinner",
+    "registry": "Variable",
+    "class": "Nave Tholiana",
+    "faction": "Asamblea Tholiana",
+    "description": "Nave especializada en tecnología de redes de energía.",
+    "status": "Catalogada",
+    "year": 2169
+  }
+]
